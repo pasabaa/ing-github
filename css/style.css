@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #000;
+    color: #fff;
+    font-family: 'Poppins',sans-serif;
+}
+
+.fw-bolder {
+    font-size: calc(3em + 1vh);
+    font-weight: bold;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
